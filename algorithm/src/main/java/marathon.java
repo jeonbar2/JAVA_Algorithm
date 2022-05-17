@@ -33,7 +33,6 @@ public class marathon {
                 }
             }
 
-
             return answer;
         }
 
